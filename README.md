@@ -26,3 +26,7 @@ A brief overview of our code repository. Explains the components and functionali
 - modules.py
   - EMA (Exponential Moving Average): A class for maintaining an exponential moving average of model parameters during training, aiding in stable optimization.
   - UNet and UNet_conditional: Neural network architectures for image segmentation tasks, featuring a U-shaped architecture with skip connections, downsampling, upsampling, and self-attention mechanisms, with UNet_conditional also incorporating conditional information through label embeddings. 
+
+
+Waiting for annotations! 
+![buffer](https://upload.wikimedia.org/wikipedia/commons/b/b9/Youtube_loading_symbol_1_(wobbly).gif)
